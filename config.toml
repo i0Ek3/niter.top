@@ -1,5 +1,5 @@
 baseURL = "http://niter.top"
-title = "i0Ek3"
+title = "i0Ek3(n. ^_^!) の Galaxy~ "
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,10 +12,10 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "i0Ek3"
-description = "i0Ek3(n. ^_^!) の Galaxy~ "
+author = "i0Ek3(n. ^_^!) の Galaxy~ "
+description = "" 
 keywords = "blog,developer"
-info = ["(?)", "bugmaker", "govrefugee"]
+info = ["(?), bugmaker, govrefugee"]
 avatarURL = "images/octo.png"
 #gravatar = "i0Ek3@protonmail.com"
 footerContent = "You must be the one!"
@@ -110,7 +110,7 @@ url = "https://github.com/i0Ek3/"
 name = "Twitter"
 icon = "fa fa-twitter"
 weight = 2 
-url = "https://twitter.com/l0ca1h0st/"
+url = "https://twitter.com/l0calh0st/"
 
 [languages.en]
 languageName = ":us:"
@@ -136,7 +136,7 @@ weight = 5
 url = "contact/"
 
 [languages.pt-cn]
-languageName = ":Chinese:"
+languageName = ":china:"
 title = "i0Ek3"
 
 [languages.pt-cn.params]
