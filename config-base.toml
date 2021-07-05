@@ -1,8 +1,8 @@
 baseURL = "http://niter.top"
 title = "i0Ek3"
 theme = "hugo-coder"
-languageCode = "en"
-defaultContentLanguage = "en"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh-cn"
 paginate = 20
 pygmentsStyle = "bw"
 pygmentsCodeFences = true
