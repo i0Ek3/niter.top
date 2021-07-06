@@ -1,5 +1,5 @@
 baseURL = "http://niter.top"
-title = "i0Ek3(n. ^_^!) の Galaxy~ "
+title = "i0Ek3 の Galaxy"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -12,10 +12,10 @@ enableEmoji = true
 # disqusShortname = "yourdiscussshortname"
 
 [params]
-author = "i0Ek3(n. ^_^!) の Galaxy~ "
+author = "i0Ek3"
 description = "" 
 keywords = "blog,developer"
-info = ["(?), bugmaker, govrefugee"]
+info = ["Bugmaker, Govrefugee，OpenSourcer"]
 avatarURL = "images/octo.png"
 #gravatar = "i0Ek3@protonmail.com"
 footerContent = "You must be the one!"
@@ -136,13 +136,13 @@ weight = 5
 url = "contact/"
 
 [languages.pt-cn]
-languageName = ":china:"
-title = "i0Ek3"
+languageName = ":zh-cn:"
+title = "i0Ek3 的银河系 "
 
 [languages.pt-cn.params]
 author = "i0Ek3"
-info = "(?), Bug 制造者, 政府难民"
-description = "i0Ek3 的银河系～"
+info = "Bug 制造者, 政府难民, 开源者"
+description = ""
 keywords = "博客，开发"
 footerContent = "你一定是本尊了！"
 
