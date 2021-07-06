@@ -1,5 +1,13 @@
-Mindfulness(正念)
-===
+author = "i0Ek3"
+date = "2017-11-01"
+title = "Mindfulness"
+slug = "mind"
+tags = [
+    "Notes",
+]
+categories = [
+    "Feelings",
+]
 
 Mindfulness is personal emotional note for myself, and it still is a guide to help you relax yourself, enjoy the nice life. As we all know, control yourself moods equivalent control all you want.
 
@@ -76,7 +84,7 @@ Let us just listen to a song *Olive Tree*:
     For the meadow green and wide
     For the mountain high and blue
     I wander wander so far
-
+    
     Daly ah ney chi ga
     Daly mey ah
     Devel maslin na
@@ -84,12 +92,12 @@ Let us just listen to a song *Olive Tree*:
     Devel esmos na
     Devel maslin na
     Devel esmos na
-
+    
     Ney pitey zey bu tim ya
     Ney pitey oh doc sa 
     Dor wasey mystimy cla
     Luterm ya luterm ya luterm ya
-
+    
     Don't ask from where I have come
     My home is far far away
     Why do you wander so far
@@ -332,7 +340,6 @@ Yesterday I dreamed my grandfather, he just alive. He ask me why did I see him c
 Late half a year, I always dreamed my grandfather frequently with various topics at nights, but more is miss. I know I have regret for him, but I cannot do anything yet. If I could see him again, what should I say?
 
 Not sorry, accomany more!
-
 
 
 

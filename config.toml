@@ -136,7 +136,7 @@ weight = 5
 url = "contact/"
 
 [languages.pt-cn]
-languageName = ":zh-cn:"
+languageName = ":cn:"
 title = "i0Ek3 的银河系 "
 
 [languages.pt-cn.params]

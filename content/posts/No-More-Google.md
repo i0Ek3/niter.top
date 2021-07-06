@@ -1,4 +1,15 @@
-# 关于No More Google的一点随想
+author = "i0Ek3"
+date = "2018-11-09"
+title = "Somthing About No More Google"
+slug = "nomoregoogle"
+tags = [
+    "Notes",
+]
+categories = [
+    "Feelings",
+]
+
+
 
 > 原本该文是发在V2ex的，发了两边都被删了，索性放这边吧，权当看个乐呵。
 
