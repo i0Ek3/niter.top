@@ -15,7 +15,7 @@ enableEmoji = true
 author = "i0Ek3"
 description = "" 
 keywords = "blog,developer"
-info = ["Bugmaker, Govrefugee，OpenSourcer"]
+info = ["Bugmaker, Govrefugee, OpenSourcer"]
 avatarURL = "images/octo.png"
 #gravatar = "i0Ek3@protonmail.com"
 footerContent = "You must be the one!"
@@ -141,7 +141,7 @@ title = "i0Ek3 的银河系 "
 
 [languages.pt-cn.params]
 author = "i0Ek3"
-info = "Bug 制造者, 政府难民, 开源者"
+info = "Bug 制造者，政府难民，开源者"
 description = ""
 keywords = "博客，开发"
 footerContent = "你一定是本尊了！"
