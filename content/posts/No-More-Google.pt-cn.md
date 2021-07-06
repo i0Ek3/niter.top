@@ -1,3 +1,4 @@
++++
 author = "i0Ek3"
 date = "2018-11-09"
 title = "关于 No More Google 的一点随想"
@@ -8,6 +9,7 @@ tags = [
 categories = [
     "感受",
 ]
++++
 
 > 原本该文是发在V2ex的，发了两边都被删了，索性放这边吧，权当看个乐呵。
 

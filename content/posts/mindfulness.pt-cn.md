@@ -1,3 +1,4 @@
++++
 author = "i0Ek3"
 date = "2017-11-01"
 title = "正念"
@@ -8,6 +9,8 @@ tags = [
 categories = [
     "感受",
 ]
++++
+
 
 Mindfulness is personal emotional note for myself, and it still is a guide to help you relax yourself, enjoy the nice life. As we all know, control yourself moods equivalent control all you want.
 

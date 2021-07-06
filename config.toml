@@ -112,6 +112,12 @@ icon = "fa fa-twitter"
 weight = 2 
 url = "https://twitter.com/l0calh0st/"
 
+[[params.social]]
+name = "Telegram"
+icon = "fa fa-telegram"
+weight = 3
+url = "https://t.me/i0Ek4"
+
 [languages.en]
 languageName = ":us:"
 
