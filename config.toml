@@ -137,7 +137,7 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Msic"
+name = "Misc"
 weight = 4 
 url = "misc/"
 
