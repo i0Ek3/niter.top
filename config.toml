@@ -19,7 +19,7 @@ info = ["Bugmaker, Govrefugee, OpenSourcer"]
 avatarURL = "images/octo.png"
 #gravatar = "i0Ek3@protonmail.com"
 footerContent = "You must be the one!"
-dateFormat = "July, 5, 2021"
+dateFormat = "2006-01-02"
 hideFooter = false
 hideCredits = false
 hideCopyright = false
@@ -177,12 +177,12 @@ name = "罪过"
 weight = 3
 url = "projects/"
 
-[[languages.en.menu.main]]
+[[languages.pt-cn.menu.main]]
 name = "杂项"
 weight = 4
 url = "misc/"
 
-[[languages.en.menu.main]]
+[[languages.pt-cn.menu.main]]
 name = "武器库"
 weight = 5
 url = "tool/"

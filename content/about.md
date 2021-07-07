@@ -1,6 +1,6 @@
 +++
 title = "About"
-description = "Sorry, I have no idea to share." 
+description = "Somthing about me." 
 date = "2021-07-04"
 author = "i0Ek3"
 +++
