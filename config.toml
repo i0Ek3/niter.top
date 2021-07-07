@@ -14,7 +14,7 @@ enableEmoji = true
 [params]
 author = "i0Ek3"
 description = "" 
-keywords = "blog,developer"
+keywords = "dev"
 info = ["Bugmaker, Govrefugee, OpenSourcer"]
 avatarURL = "images/octo.png"
 #gravatar = "i0Ek3@protonmail.com"
@@ -40,7 +40,7 @@ hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 5
 # Enable Twemoji
-enableTwemoji = false
+enableTwemoji = true
 # Custom CSS
 customCSS = []
 # Custom SCSS
@@ -132,34 +132,39 @@ weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Post"
 weight = 3
+url = "post/"
+
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 4
 url = "projects/"
 
 [[languages.en.menu.main]]
 name = "Misc"
-weight = 4 
+weight = 5 
 url = "misc/"
 
 [[languages.en.menu.main]]
 name = "Tool"
-weight = 5 
+weight = 6 
 url = "tool/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
-weight = 6
+weight = 7
 url = "contact/"
 
 [languages.pt-cn]
 languageName = ":cn:"
-title = "i0Ek3 的银河系 "
+title = "i0Ek3 的银河系"
 
 [languages.pt-cn.params]
 author = "i0Ek3"
 info = "Bug 制造者，政府难民，开源者"
 description = ""
-keywords = "博客，开发"
+keywords = "开发"
 footerContent = "你一定是本尊了！"
 
 [[languages.pt-cn.menu.main]]
@@ -168,26 +173,31 @@ weight = 1
 url = "about/"
 
 [[languages.pt-cn.menu.main]]
-name = "碎碎念"
+name = "长篇大论"
 weight = 2
 url = "posts/"
 
 [[languages.pt-cn.menu.main]]
-name = "罪过"
+name = "碎碎念"
 weight = 3
+url = "post/"
+
+[[languages.pt-cn.menu.main]]
+name = "罪过"
+weight = 4
 url = "projects/"
 
 [[languages.pt-cn.menu.main]]
 name = "杂项"
-weight = 4
+weight = 5
 url = "misc/"
 
 [[languages.pt-cn.menu.main]]
-name = "武器库"
-weight = 5
+name = "工具库"
+weight = 6
 url = "tool/"
 
 [[languages.pt-cn.menu.main]]
 name = "勾搭"
-weight = 6
+weight = 7
 url = "contact/"
