@@ -6,12 +6,10 @@ author = "i0Ek3"
 +++
 
 
-## Here We Go
+# Here We Go
 
 All pictures painted by [this link](https://david.li/paint/).
 
+## 2021-07-09
 
-### 2021-07-09
-
-![](https://github.com/i0Ek3/niter.top/blob/master/content/imgs/20210709.png)
-
+![](https://github.com/i0Ek3/niter.top/tree/master/content/paints/20210709.png)
