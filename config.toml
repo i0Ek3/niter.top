@@ -48,9 +48,6 @@ customSCSS = []
 # Custom JS
 customJS = []
 
-# enable picture upload
-post_asset_folder = true
-
 # If you want to use fathom(https://usefathom.com) for analytics, add this section
 # [params.fathomAnalytics]
 # siteID = "ABCDE"
