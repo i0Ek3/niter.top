@@ -158,8 +158,13 @@ weight = 6
 url = "tool/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Friends"
 weight = 7
+url = "friends/"
+
+[[languages.en.menu.main]]
+name = "Contact me"
+weight = 8
 url = "contact/"
 
 [languages.pt-cn]
@@ -204,6 +209,11 @@ weight = 6
 url = "tool/"
 
 [[languages.pt-cn.menu.main]]
-name = "勾搭"
+name = "友链"
 weight = 7
+url = "friends/"
+
+[[languages.pt-cn.menu.main]]
+name = "勾搭"
+weight = 8
 url = "contact/"
