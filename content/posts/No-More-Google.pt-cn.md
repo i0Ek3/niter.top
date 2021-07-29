@@ -2,7 +2,7 @@
 author = "i0Ek3"
 date = "2018-11-09"
 title = "关于 No More Google 的一点随想"
-slug = "nomoregoogle"
+slug = "no-more-google"
 tags = [
     "笔记",
 ]

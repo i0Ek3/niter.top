@@ -2,7 +2,7 @@
 author = "i0Ek3"
 date = "2021-07-12"
 title = "N1 刷机记录：不能当盒子的 NAS 不是好矿机？"
-slug = "Phicomm N1, FX"
+slug = "fx-n1"
 tags = [
     "刷机，N1",
 ]

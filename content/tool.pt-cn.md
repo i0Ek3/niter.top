@@ -18,18 +18,21 @@ author = "i0Ek3"
 
 ## 日常使用
 
-- iTerm2
-- JetBrains IDE [CP]
-- VS Codium [CP]
-- Standard Notes [CP]
-- Typora [CP]
+- [iTerm2](https://iterm2.com/)
+- [JetBrains IDE](https://www.jetbrains.com/) [CP]
+- [VS Codium](https://vscodium.com/) [CP]
+- [Standard Notes](https://standardnotes.com/) [CP]
+- [Typora](https://typora.io/) [CP]
 - PDF Expert
-- Notion [CP]
+- [Notion](https://www.notion.so/) [CP]
 - MicroSoft To Do [CP]
 - Pocket
-- Draw.io [CP]
+- [Draw.io](https://github.com/jgraph/drawio) [CP]
 - Xmind [CP]
 - Reeder
-- YesPlayMusic [CP]
+- [YesPlayMusic](https://github.com/qier222/YesPlayMusic) [CP]
+- Firefox/Google Chrome [CP]
+- [FDM](https://www.freedownloadmanager.org/)/[Motrix](https://motrix.app/zh-CN/) [CP]
+
 
 如果想了解更多，请看[这里](https://github.com/i0Ek3/PlayWithGeekWay/tree/master/apps)。
