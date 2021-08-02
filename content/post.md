@@ -7,6 +7,10 @@ author = "i0Ek3"
 
 # Here's thing
 
+## 2021-08-02
+
+It's too bad for now, I'm feeling very angry cause of those people who want me to leave but don't hand over my work, just like L.K., he's really a selfish asshole, I cannot figure out how these people live in this world without any mercy? Damn it, I hope god bless you!
+
 ## 2021-07-16
 
 Today we went to see our colleague. Something happened to him. When we talked with his mother, I was very sad, because some bad things happened before on someone, and that thing float on my brain on that moment, it's too dark! God bless him and me.
