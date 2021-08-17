@@ -7,6 +7,10 @@ author = "i0Ek3"
 
 # Here's thing
 
+## 2021-08-16
+
+This is a protracted war, for myself, for our future.
+
 ## 2021-08-02
 
 It's too bad for now, I'm feeling very angry cause of those people who want me to leave but don't hand over my work, just like L.K., he's really a selfish asshole, I cannot figure out how these people live in this world without any mercy? Damn it, I hope god bless you!
