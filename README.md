@@ -4,7 +4,8 @@
 ## To-Do
 
 - [ ] support comment system
-- [ ] support [picture upload](https://github.com/Molunerfinn/PicGo)
+- [x] support [picture upload](https://github.com/Molunerfinn/PicGo)
+    - use picx: [https://github.com/XPoet/picx](https://github.com/XPoet/picx)
 - [ ] support traffic analysis
 - [ ] support [i18n & l10n](https://www.bmpi.dev/dev/i18n-l10n/)
 - [ ] support https
