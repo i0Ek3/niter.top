@@ -4,10 +4,10 @@ date = "2018-11-09"
 title = "关于 No More Google 的一点随想"
 slug = "no-more-google"
 tags = [
-    "笔记",
+    "No More Google",
 ]
 categories = [
-    "感受",
+    "个人见闻",
 ]
 +++
 

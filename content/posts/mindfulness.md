@@ -4,15 +4,15 @@ date = "2017-11-01"
 title = "Mindfulness"
 slug = "mind"
 tags = [
-    "Notes",
+    "Emotion",
 ]
 categories = [
-    "Feelings",
+    "Personal Knowledge",
 ]
+
 +++
 
 Mindfulness is personal emotional note for myself, and it still is a guide to help you relax yourself, enjoy the nice life. As we all know, control yourself moods equivalent control all you want.
-
 
 ## Introduction
 

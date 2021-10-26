@@ -4,7 +4,7 @@ date = "2021-07-12"
 title = "N1 刷机记录：不能当盒子的 NAS 不是好矿机？"
 slug = "fx-n1"
 tags = [
-    "刷机，N1",
+    "N1，刷机",
 ]
 categories = [
     "玩物丧志",

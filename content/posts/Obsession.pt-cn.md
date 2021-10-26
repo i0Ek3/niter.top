@@ -4,10 +4,10 @@ date = "2021-09-15"
 title = "执念"
 slug = "obsession"
 tags = [
-    "笔记",
+    "情感",
 ]
 categories = [
-    "情感",
+    "个人见闻",
 ]
 
 +++
