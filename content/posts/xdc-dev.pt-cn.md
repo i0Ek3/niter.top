@@ -12,7 +12,7 @@ categories = [
 
 +++
 
-![](https://cdn.jsdelivr.net/gh/i0Ek3/apichost@main/niter.top/dev0.775rxk0n8cg0.jpg)
+![](https://github.com/i0Ek3/niter.top/blob/master/static/images/article/dev0.jpg)
 
 大会网址：[https://live.juejin.cn/site/4354/xdc2021](https://live.juejin.cn/site/4354/xdc2021)。
 
