@@ -1,7 +1,7 @@
 +++
 author = "i0Ek3"
 date = "1970-01-01"
-title = "template"
+title = "Template"
 slug = "The English name of title"
 tags = [
     "Keywords1, Keywords2",
