@@ -148,23 +148,8 @@ weight = 4
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Paints"
-weight = 5 
-url = "paints/"
-
-[[languages.en.menu.main]]
-name = "Tool"
-weight = 6 
-url = "tool/"
-
-[[languages.en.menu.main]]
-name = "Friends"
-weight = 7
-url = "friends/"
-
-[[languages.en.menu.main]]
 name = "Contact me"
-weight = 8
+weight = 5
 url = "contact/"
 
 [languages.pt-cn]
