@@ -179,26 +179,21 @@ weight = 3
 url = "post/"
 
 [[languages.pt-cn.menu.main]]
-name = "罪过"
-weight = 4
-url = "projects/"
-
-[[languages.pt-cn.menu.main]]
 name = "抽象派"
-weight = 5
+weight = 4
 url = "paints/"
 
 [[languages.pt-cn.menu.main]]
 name = "工具库"
-weight = 6
+weight = 5
 url = "tool/"
 
 [[languages.pt-cn.menu.main]]
 name = "友链"
-weight = 7
+weight = 6
 url = "friends/"
 
 [[languages.pt-cn.menu.main]]
 name = "勾搭"
-weight = 8
+weight = 7
 url = "contact/"

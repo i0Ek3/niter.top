@@ -31,8 +31,14 @@ author = "i0Ek3"
 - Xmind [CP]
 - Reeder
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) [CP]
+- [NetEase Music(Fast Edition)](https://www.lanzoux.com/iUw9Dheqpob)
 - Firefox/Google Chrome [CP]
 - [FDM](https://www.freedownloadmanager.org/)/[Motrix](https://motrix.app/zh-CN/) [CP]
+
+## 武器库
+
+- [https://devtool.tech](https://devtool.tech)
+
 
 
 如果想了解更多，请看[这里](https://github.com/i0Ek3/PlayWithGeekWay/tree/master/apps)。
