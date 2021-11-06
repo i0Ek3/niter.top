@@ -1,4 +1,4 @@
-baseURL = "http://niter.top"
+baseURL = "https://niter.top"
 title = "i0Ek3"
 theme = "hugo-coder"
 languageCode = "zh-cn"
