@@ -4,10 +4,12 @@ date = "1970-01-01"
 title = "Template"
 slug = "The English name of title"
 tags = [
-    "Keywords1, Keywords2",
+    // Keywords
+    "Emotion, Sharing, Play, Unpack, Source Code Reading, Ideas",
 ]
 categories = [
-    "What kind of this article",
+    // What kind of this article
+    "PK", "BG", "LN"
 ]
 
 +++

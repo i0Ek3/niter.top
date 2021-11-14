@@ -20,15 +20,15 @@
 
 There are three categories and several tags in every category, just like:
 
-- 个人见闻（Personal Knowledge）
+- 个人见闻（PK: Personal Knowledge）
     - 情感（Emotion）
     - 经历分享（Sharing）
     - etc.
-- 玩物丧志（Be A Geek）
+- 玩物丧志（BG: Be a Geek）
     - 刷机（Play）
     - 开箱（Unpack）
     - etc.
-- 学习笔记（Learning Note）
+- 学习笔记（LN: Learning Note）
     - 源码阅读（Source Code Reading）
     - 想法（Ideas）
     - etc.
