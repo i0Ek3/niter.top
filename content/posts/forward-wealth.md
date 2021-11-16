@@ -2,7 +2,7 @@
 author = "i0Ek3"
 date = "2021-11-13"
 title = "[Forward] Wealth Creation Mechanisms"
-slug = "wealth creation mechanisms"
+slug = "wealth, creation, mechanisms"
 tags = [
     "Sharing",
 ]
