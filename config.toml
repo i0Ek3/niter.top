@@ -107,7 +107,7 @@ issue-term = "pathname"
 theme = "photon-dark"
 
 [[params.social]]
-name = "Github"
+name = "GitHub"
 icon = "fa fa-github"
 weight = 1
 url = "https://github.com/i0Ek3/"

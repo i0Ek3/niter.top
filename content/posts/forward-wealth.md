@@ -67,9 +67,13 @@ There is one sub-category of 9c where it is possible to make money, and that is 
 
 I'm pretty sure this is a comprehensive list. Can anyone think of anything I've left out?
 
+
+
 - Reference
 
 [1] For those of you coming from Hacker News, I'm on a cruise ship going through Asia at the moment.
+
+
 
 
 This article worth to read more and again.
