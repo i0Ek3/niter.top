@@ -5,7 +5,7 @@
 
 Some days ago, my blog on Netlify went offline cause of I changed it's name servers to the original one(Namesilo). So I decide to record what should I do after my blog offline. Here's thing:
 
-First, I find some solutions which is available in surface:
+First, I found some seemingly available solutions:
 
 - buy a new domain(or register a free one on Freenom) to bind your VPS and restore my blog
 - [WIP] deploy your site on your VPS instead of Netlify
