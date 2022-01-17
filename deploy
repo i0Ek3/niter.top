@@ -1,0 +1,16 @@
+#!/bin/sh
+
+deploy() {
+    USER=root
+    HOST=niter.top
+    DIR=/var/www/blog
+    
+    hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
+}
+
+main() {
+    deploy
+    exit 0
+}
+
+main

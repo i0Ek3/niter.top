@@ -1,0 +1,73 @@
+baseURL: https://niter.top
+languageCode: en-us
+defaultContentLanguage: en
+title: i0Ek3 の Galaxy
+theme: papercss-hugo-theme
+
+privacy:
+  disqus:
+    disable: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+# To disable, set to an extremely large value, such as 999999
+paginate: 5
+
+params:
+  homeMetaContent: A Hugo theme made with PaperCSS, the less formal CSS framework.
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat: Jan 2, 2006
+  navTitleLink: /
+
+menu:
+  nav:
+    - name: About
+      url: /about/
+      weight: 1
+    - name: Posts
+      url: /posts/
+      weight: 2
+    - name: Projects
+      url: /projects/
+      weight: 3
+    - name: Contact
+      url: /contacts/
+      weight: 4
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
