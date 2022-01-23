@@ -14,7 +14,7 @@ Some days ago, my blog on Netlify went offline cause of I changed it's name serv
 First, I found some seemingly available solutions:
 
 - buy a new domain(or register a free one on Freenom) to bind your VPS and restore my blog
-- [WIP] deploy your site on your VPS instead of Netlify
+- deploy your site on your VPS instead of Netlify with rsync
 - configure external DNS for Netlify, ref [here](https://docs.netlify.com/domains-https/custom-domains/configure-external-dns/)(add A record with IP 75.2.60.5)
 - use Nginx to reverse proxy
 - find the other solution(like hyber name servers, it seems not work well)
@@ -27,6 +27,16 @@ And I added some themes, you can visit [here](https://github.com/i0Ek3/niter.top
 
 Enjoy!
 
+
+## Deploy on VPS
+
+> DO NOT RUN ./deploy DIRECTLY!
+
+Before you deploy your website on your VPS, you need to change follows items in script deplpy to your own to make sure this script work well:
+
+- HOST
+- DIR
+- YOUR_PORT
 
 
 

@@ -3,14 +3,10 @@
 deploy() {
     USER=root
     HOST=niter.top
-    DIR=/var/www/blog
+    DIR=/root/www/
     
-    hugo && rsync -avz --delete public/ ${USER}@${HOST}:~/${DIR}
-}
-
-main() {
-    deploy
+    hugo && rsync -avz --delete public/ -e 'ssh -v -p YOUR_PORT' ${USER}@${HOST}:${DIR}
     exit 0
 }
 
-main
+deploy
