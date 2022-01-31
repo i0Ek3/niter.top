@@ -36,7 +36,7 @@ Before you deploy your website on your VPS, you need to change follows items in 
 
 - HOST
 - DIR
-- YOUR_PORT
+- YOUR_PORT, like 22 or something else
 
 
 

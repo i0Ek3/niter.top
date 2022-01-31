@@ -5,7 +5,7 @@ deploy() {
     HOST=niter.top
     DIR=/root/www/
     
-    hugo && rsync -avz --delete public/ -e 'ssh -v -p YOUR_PORT' ${USER}@${HOST}:${DIR}
+    hugo && rsync -avz --delete public/ -e 'ssh -v -p 22' ${USER}@${HOST}:${DIR}
     exit 0
 }
 
