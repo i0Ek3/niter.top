@@ -1,14 +1,15 @@
 +++
-title = "抽象派"
-description = "我画的那些表现鬼们！"
+title = "Paints"
+description = "Fooly enough."
 date = "2021-07-09"
 author = "i0Ek3"
+
 +++
 
 
-# 请欣赏
+# Please
 
-所有的画作都是用[这个连接](https://david.li/paint/)完成的，虽然都是乱画的，偶尔玩一下还挺解压的。
+Create by this [link](https://david.li/paint/), enjoy!
 
 ## 2021-10-28
 

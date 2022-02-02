@@ -1,22 +1,23 @@
 +++
-title = "工具库"
-decription = "分享些有用的工具，对你们来说可不一定哦！"
+title = "Tools"
+decription = "N/A"
 data = "2021-07-07"
 author = "i0Ek3"
+
 +++
 
 
-这里我会分享一些我常用的 App，主要是电脑端（macOS）和一些跨平台（[CP]）的，当然也是为了自己方便。
+N/A.
 
-## 推荐下载站
+## YKI
 
-> 请支持正版！
+> Do the right thing.
 
 - [Macwk](https://macwk.com) 🌟🌟🌟🌟🌟
 - [Xclient.info](xclient.info) 🌟🌟
 
 
-## 日常使用
+## Daily Use
 
 - [iTerm2](https://iterm2.com/)
 - [JetBrains IDE](https://www.jetbrains.com/) [CP]
@@ -35,10 +36,10 @@ author = "i0Ek3"
 - Firefox/Google Chrome [CP]
 - [FDM](https://www.freedownloadmanager.org/)/[Motrix](https://motrix.app/zh-CN/) [CP]
 
-## 武器库
+## Weapon
 
 - [https://devtool.tech](https://devtool.tech)
 
 
 
-如果想了解更多，请看[这里](https://github.com/i0Ek3/PlayWithGeekWay/tree/master/apps)。
+If you want to know more details, plese visit [here](https://github.com/i0Ek3/PlayWithGeekWay/tree/master/apps)。

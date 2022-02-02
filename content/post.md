@@ -7,6 +7,14 @@ author = "i0Ek3"
 
 # Here's thing
 
+## 2022-02-02
+
+Remove some posts, only support English version from now on in this website.
+
+## 2022-01-31
+
+Happer New Year.
+
 ## 2021-08-16
 
 This is a protracted war, for myself, for our future.

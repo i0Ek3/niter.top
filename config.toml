@@ -113,15 +113,9 @@ weight = 1
 url = "https://github.com/i0Ek3/"
 
 [[params.social]]
-name = "Twitter"
-icon = "fa fa-twitter"
-weight = 2 
-url = "https://twitter.com/10ca1h05t/"
-
-[[params.social]]
 name = "Telegram"
 icon = "fa fa-telegram"
-weight = 3
+weight = 2
 url = "https://t.me/i0Ek4"
 
 [languages.en]
@@ -148,52 +142,16 @@ weight = 4
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Paints"
 weight = 5
-url = "contact/"
-
-[languages.pt-cn]
-languageName = ":cn:"
-title = "i0Ek3 的银河系"
-
-[languages.pt-cn.params]
-author = "i0Ek3"
-info = "Bug 制造者，政府难民，开源者"
-description = ""
-keywords = "开发"
-footerContent = "你一定是本尊了！"
-
-[[languages.pt-cn.menu.main]]
-name = "生平"
-weight = 1
-url = "about/"
-
-[[languages.pt-cn.menu.main]]
-name = "长篇大论"
-weight = 2
-url = "posts/"
-
-[[languages.pt-cn.menu.main]]
-name = "碎碎念"
-weight = 3
-url = "post/"
-
-[[languages.pt-cn.menu.main]]
-name = "抽象派"
-weight = 4
 url = "paints/"
 
-[[languages.pt-cn.menu.main]]
-name = "工具库"
-weight = 5
+[[languages.en.menu.main]]
+name = "Tools"
+weight = 6
 url = "tool/"
 
-[[languages.pt-cn.menu.main]]
-name = "友链"
-weight = 6
-url = "friends/"
-
-[[languages.pt-cn.menu.main]]
-name = "勾搭"
+[[languages.en.menu.main]]
+name = "Contact me"
 weight = 7
 url = "contact/"
