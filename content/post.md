@@ -5,7 +5,7 @@ date = "2021-07-07"
 author = "i0Ek3"
 +++
 
-# Here's thing
+Here's thing.
 
 ## 2022-02-02
 

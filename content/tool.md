@@ -19,6 +19,8 @@ N/A.
 
 ## Daily Use
 
+### Desktop
+
 - [iTerm2](https://iterm2.com/)
 - [JetBrains IDE](https://www.jetbrains.com/) [CP]
 - [VS Codium](https://vscodium.com/) [CP]
@@ -32,9 +34,16 @@ N/A.
 - Xmind [CP]
 - Reeder
 - [YesPlayMusic](https://github.com/qier222/YesPlayMusic) [CP]
-- [NetEase Music(Fast Edition)](https://www.lanzoux.com/iUw9Dheqpob)
+- [lx-music](https://github.com/lyswhut/lx-music-desktop)
 - Firefox/Google Chrome [CP]
 - [FDM](https://www.freedownloadmanager.org/)/[Motrix](https://motrix.app/zh-CN/) [CP]
+
+
+### Mobile
+
+- [NetEase Music(Fast Edition)](https://www.lanzoux.com/iUw9Dheqpob)
+- [Bromite](https://github.com/bromite/bromite)
+
 
 ## Weapon
 
@@ -42,4 +51,4 @@ N/A.
 
 
 
-If you want to know more details, plese visit [here](https://github.com/i0Ek3/PlayWithGeekWay/tree/master/apps)。
+If you want to know more details, please visit [here](https://github.com/i0Ek3/PlayWithGeekWay/tree/master/apps).

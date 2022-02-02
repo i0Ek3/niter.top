@@ -7,9 +7,7 @@ author = "i0Ek3"
 +++
 
 
-# Please
-
-Create by this [link](https://david.li/paint/), enjoy!
+All paints created by this [link](https://david.li/paint/), enjoy!
 
 ## 2021-10-28
 
