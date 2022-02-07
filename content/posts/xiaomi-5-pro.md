@@ -59,11 +59,8 @@ categories = [
 
 ![](https://cdn.jsdelivr.net/gh/i0Ek3/apichost@main/niter.top/1pdf.2tryke68k134.jpg)
 
-后面其实还录了一段视频，能够体验下音质和屏幕播放的感觉，~~等我搞清楚如何上传视频，我再放过来看看~~通过 shortcodes 可以实现在 markdown 中播放 bilibili 的视频。
+后面其实还录了一段视频，能够体验下音质和屏幕播放的感觉，~~等我搞清楚如何上传视频，我再放过来看看~~。通过 shortcodes 可以实现在 markdown 中播放 bilibili 的视频。
 
-```python
-{{< bilibili BV1qS4y197L6 >}}
-```
 
 ## 总结
 
