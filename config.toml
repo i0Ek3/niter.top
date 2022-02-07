@@ -102,6 +102,7 @@ author = "authors"
 
 # Comments on github issue
 [params.utteranc]
+enable = true
 repo = "i0Ek3/niter.top" 
 issue-term = "pathname"
 theme = "photon-dark"

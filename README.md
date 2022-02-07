@@ -65,7 +65,7 @@ After that, run command `hugo -D` and run script `./deploy` to deploy.
 - [x] support [picture upload](https://github.com/Molunerfinn/PicGo)
     - use picx: [https://github.com/XPoet/picx](https://github.com/XPoet/picx)
 - [x] enable [cdn](https://www.jsdelivr.com/) speed up
-- [ ] support comment system
+- [x] support comment system(WIP)
 - [ ] support traffic analysis
 - [ ] support [i18n & l10n](https://www.bmpi.dev/dev/i18n-l10n/)
 
