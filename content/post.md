@@ -7,6 +7,12 @@ author = "i0Ek3"
 
 Here's thing.
 
+## 2022-02-15
+
+- I just can't forgive myself cause of self-demanding, for everything.
+- I love you and I told you, don't hide your feeling. If you love me, please tell me.
+- You just like a child who wants to eat everything, unrestrained, overwhelmed by profit, that's shame.
+
 ## 2022-02-02
 
 Remove some posts, only support English version from now on in this website.
