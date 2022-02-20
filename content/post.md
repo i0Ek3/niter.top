@@ -7,6 +7,10 @@ author = "i0Ek3"
 
 Here's thing.
 
+## 2022-02-20
+
+If I cannot leave here, justice can never be served. Those people who have narrow picture will die for their ignorant. Everything will be clam down, but I will be remembered you biatches, have fun tonight.
+
 ## 2022-02-15
 
 - I just can't forgive myself cause of self-demanding, for everything.
