@@ -7,6 +7,10 @@ author = "i0Ek3"
 
 Here's thing.
 
+## 2022-03-19
+
+It breaks my heart that he said something like that even though I talked to S so much. Keeping distance and silence may be a good idea, good luck for you.
+
 ## 2022-02-20
 
 If I cannot leave here, justice can never be served. Those people who have narrow picture will die for their ignorant. Everything will be clam down, but I will be remembered you biatches, have fun tonight.
