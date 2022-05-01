@@ -7,10 +7,13 @@ author = "i0Ek3"
 
 Here's thing.
 
+## 2022-05-01
+
+You spent all my patience, I don't beg you know.
+
 ## 2022-04-30
 
 Conflicts, you and I, full of conflicts. We call out, untrust each other. Even though I like you so much, I cannot talking with you peaceful, and you too. I'm trying to say this is the last time, I will get rid of this bad memory, and say goodbye for you, and I don't want to repair this stuff anymore, never again!
-
 
 ## 2022-03-19
 
