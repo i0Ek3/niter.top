@@ -7,6 +7,12 @@ author = "i0Ek3"
 
 Here's thing.
 
+## 2022-05-19
+
+What I'm looking for? What am I doing here for now? I cannot figure it out, and I've been so tired. I just want to go somewhere where I can enjoy quiet and have some time to think.
+
+Can you hear me?
+
 ## 2022-05-01
 
 You spent all my patience, I don't beg you know.
@@ -17,7 +23,7 @@ Conflicts, you and I, full of conflicts. We call out, untrust each other. Even t
 
 ## 2022-03-19
 
-It breaks my heart that he said something like that even though I talked to S so much. Keeping distance and silence may be a good idea, good luck for you.
+It breaks my heart that he said something like that even though I talked to him so much. Keeping distance and silence may be a good idea, good luck for you.
 
 ## 2022-02-20
 
