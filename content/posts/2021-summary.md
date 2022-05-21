@@ -3,10 +3,10 @@ author = "i0Ek3"
 date = "2021-12-28"
 title = "跟风的 2021 年个人总结" 
 tags = [
-    "想法",
+    "Sharing",
 ]
 categories = [
-    "个人见闻",
+    "PK",
 ]
 
 +++

@@ -4,10 +4,10 @@ date = "2021-10-26"
 title = "见多不怪的 Offer"
 slug = "offer"
 tags = [
-    "经历分享，offer",
+    "Sharing",
 ]
 categories = [
-    "个人见闻",
+    "PK",
 ]
 
 +++

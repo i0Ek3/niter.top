@@ -7,7 +7,7 @@ tags = [
     "Emotion",
 ]
 categories = [
-    "Personal Knowledge",
+    "PK",
 ]
 
 +++

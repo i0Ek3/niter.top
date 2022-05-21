@@ -4,10 +4,10 @@ date = "2021-07-11"
 title = "套路多，流氓选手的无底线运动" 
 slug = "fraud-pdd"
 tags = [
-    "套路多，无底线",
+    "Sharing",
 ]
 categories = [
-    "个人见闻",
+    "PK",
 ]
 
 +++

@@ -4,10 +4,10 @@ date = "2021-10-27"
 title = "稀土开发者大会：Google Cloud 中的湖仓一体" 
 slug = "Xitu Dev"
 tags = [
-    "数据仓库，数据湖",
+    "Data Lake/Repo",
 ]
 categories = [
-    "学习笔记",
+    "LN",
 ]
 
 +++

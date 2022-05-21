@@ -3,10 +3,10 @@ author = "i0Ek3"
 date = "2021-11-16"
 title = "小米平板 5 Pro 伪开箱" 
 tags = [
-    "开箱",
+    "Unpack",
 ]
 categories = [
-    "玩物丧志",
+    "BG",
 ]
 
 +++

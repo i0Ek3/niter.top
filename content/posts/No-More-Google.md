@@ -4,14 +4,13 @@ date = "2018-11-09"
 title = "关于 No More Google 的一点随想"
 slug = "no-more-google"
 tags = [
-    "No More Google",
+    "Sharing",
 ]
 categories = [
-    "个人见闻",
+    "PK",
 ]
-+++
 
-> 原本该文是发在V2ex的，发了两边都被删了，索性放这边吧，权当看个乐呵。
++++
 
 
 本文主要是想和大家讨论下Google的问题！顺便问问大家，还在用Google产品和服务吗？
