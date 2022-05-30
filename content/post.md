@@ -7,6 +7,10 @@ author = "i0Ek3"
 
 Here's thing.
 
+## 2022-05-30
+
+What can you do without your current job?
+
 ## 2022-05-19
 
 What I'm looking for? What am I doing here for now? I cannot figure it out, and I've been so tired. I just want to go somewhere where I can enjoy quiet and have some time to think.
