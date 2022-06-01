@@ -7,6 +7,12 @@ author = "i0Ek3"
 
 Here's thing.
 
+
+
+## 2022-06-01
+
+Again and again, those people just don't understand what they are doing and what they are facing. Tired, good luck for you guys!
+
 ## 2022-05-30
 
 What can you do without your current job?
