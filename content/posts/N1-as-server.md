@@ -13,15 +13,13 @@ categories = [
 
 ## Preface
 
-## 
-
 The VPS I bought before is about to expire and I want to find a new platform to run my website. Also I know Phicomm N1 can be a linux server, so I planning to set up my idle Phicomm N1 as a linux server to run my website.
 
 ## Prerequisites
 
 So what do we need first?
 
-- N1(2G + 8G)
+- N1
 - Udisk 8G
 - Windows computer
 - Display
@@ -38,7 +36,7 @@ You need to perform follow steps, of course you can skip the first step if you h
 
 ### 1. Downgrade
 
-If you&#39;ve never been downgraded, you only have to do it once in your life. If you'd downgraded, you don't need to downgrade again.
+If you've never been downgraded, you only have to do it once in your life. If you'd downgraded, you don't need to downgrade again.
 
 - Record IP address of N1
 - Find run.bat in the `N1 All-In-One` and run it
@@ -68,11 +66,10 @@ With this way, you need to re-install Android TV system on N1.
   - After buring, use DiskGeniu to open Udisk and copy dbt file into dbt folder
   - After that, edit uEnv.ini on the root folder, change first line with placed path of dbt file you copied just now
   - Remove Udisk, you got an armbian Udisk now
-
 - Insert armbian Udisk into N1(use USB port near HDMI) first, do not connect N1 power
   - **You must insert armbian Udisk into first USB port on N1 from left to right**
   - **You must insert armbian Udisk into N1 when it was powered off**
-- Now, connect N1 power
+- Now, connect the power of N1
   - If it works, you will see the boot log on the Display
   - If not, making another armbian Udisk
 - Setting up armbian right now
@@ -91,7 +88,6 @@ N/A.
 Here offerd some links you can reference:
 
 - [https://www.dragoncave.me/2019/07/armbian-on-n1.html](https://www.dragoncave.me/2019/07/armbian-on-n1.html)
-
 - [https://www.right.com.cn/forum/thread-430903-1-1.html](https://www.right.com.cn/forum/thread-430903-1-1.html)
 - [https://post.smzdm.com/p/alpwnxmp/](https://post.smzdm.com/p/alpwnxmp/)
 - [https://wayjam.me/posts/n1-flash-with-armbian/](https://wayjam.me/posts/n1-flash-with-armbian/)
@@ -100,15 +96,15 @@ Here offerd some links you can reference:
 
 - After re-install webpad 2.2 ROM
 
-<img src="https://cdn.jsdelivr.net/gh/i0Ek3/apichost@main/niter.top/3-ip-address.2onjcatixeps.webp" style="zoom:25%;" />
+![](https://cdn.jsdelivr.net/gh/i0Ek3/apichost@main/3-ip-address.5d6by8qam9z4.jpg)
 
 - Installed armbian on N1
 
-<img src="https://cdn.jsdelivr.net/gh/i0Ek3/apichost@main/niter.top/1-terminal.66sljvy9zw5c.webp" style="zoom: 25%;" />
+![](https://cdn.jsdelivr.net/gh/i0Ek3/apichost@main/1-terminal.6ct4cuhsp6o0.jpg)
 
 - Use Termius to connect armbian linux server
 
-<img src="https://cdn.jsdelivr.net/gh/i0Ek3/apichost@main/niter.top/2-connect-by-phone.7a5hufc63k3k.webp" style="zoom:25%;" />
+![](https://cdn.jsdelivr.net/gh/i0Ek3/apichost@main/2-connect-by-phone.36m1vaenn668.jpg)
 
 ## Summary
 
@@ -119,8 +115,6 @@ Enjoy~
 ## That's True
 
 A phenomenon I have encountered is that I use a switch to connect N1 and internet, every time I restored the N1, the switch will reassign the IP address, so I can't use the previous IP address to connect, but it doesn't matter now, I guess.
-
-## 
 
 ## References
 
