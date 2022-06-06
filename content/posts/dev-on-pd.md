@@ -2,6 +2,7 @@
 
 author = "i0Ek3"
 date = "2022-05-21"
+update = "2022-06-06"
 title = "Multi-host Development on macOS(Monterey) with Parallels Desktop" 
 tags = [
     "Development",
@@ -37,7 +38,8 @@ Execute the following commands to support ssh functionality:
 $ sudo apt update ; sudo apt upgrade # update resource
 $ sudo apt install -y net-tools      # install ifconfig
 $ ifconfig                           # check and record inet address
-$ sudo apt install -y openssh-client openssh-server # install ssh
+$ sudo apt install -y openssh-client openssh-server # install openssh
+$ sudo ssh-keygen -A                                # generate ssh-key
 $ sudo /etc/init.d/ssh start                        # enable ssh service
 ```
 
@@ -50,7 +52,6 @@ You can choose SSH tool like Termius or default terminal to connect vritual mach
 For example, run command `ssh vm_username@inet_address` from your terminal, and then type "yes", you will connected.
 
 ![](https://cdn.jsdelivr.net/gh/i0Ek3/apichost@main/niter.top/test@test.jpg)
-
 
 
 ### Further

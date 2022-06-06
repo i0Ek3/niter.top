@@ -13,8 +13,8 @@ enableEmoji = true
 
 [params]
 author = "i0Ek3"
-description = "" 
-keywords = "dev"
+description = "A messed up world."
+keywords = "Developer"
 info = ["Bugmaker, Govrefugee, OpenSourcer"]
 avatarURL = "images/octo.png"
 #gravatar = "i0Ek3#protonmail.com"
