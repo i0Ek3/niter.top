@@ -2,7 +2,6 @@
 
 author = "i0Ek3"
 date = "2022-05-21"
-update = "2022-06-06"
 title = "Multi-host Development on macOS(Monterey) with Parallels Desktop" 
 tags = [
     "Development",

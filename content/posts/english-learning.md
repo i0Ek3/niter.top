@@ -45,7 +45,7 @@ But how could we use English to think? Please do follow steps everyday.
 - **Only Use English Dictionary**: This is a good habit to use only English dictionary, for example Webster.
 - **Repetition What You Are Hearing**: Practice makes perfect.
 
-After practicing this way for a few months, you will feel your progress. The important thing is that you need to stick with it.
+After practicing this way for a few months, you will feel your progress. The important thing is that you need to stick with it, and use what you learned.
 
 ## Reference
 

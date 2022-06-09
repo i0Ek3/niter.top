@@ -27,8 +27,7 @@ So what do we need first?
 - HDMI cable
 - Mouse/Keyboard
 - Software/Firmware
-  - `N1 All-In-One`: [Download here]()
-  - Aliyun drive cannot share the file now, I'll add the link later after it was ok 
+  - Download(9tzd): [`N1 All-In-One`](https://www.aliyundrive.com/s/PjWibyzh3uk)
 
 ## Steps
 
@@ -50,7 +49,7 @@ There are two ways to install armbian on N1. But first, you should connect HDMI 
 
 #### 2.1 Pure Install(Recommend)
 
-With this way, you need to re-install Android TV system on N1.
+With this way, you need to re-install Android TV system on N1. All of these files you can find in the `N1 All-In-One`.
 
 - Download webpad 2.2 ROM and USB Buring Tool, install webpad 2.2 on N1
   - Open USB Buring Tool and import webpad 2.2 ROM
@@ -61,7 +60,7 @@ With this way, you need to re-install Android TV system on N1.
   - When it was finished, disconnect double ended USB cable first, then Stop the USB Buring Tool and exit it, disconnect power of N1
 - **Run script `U盘启动.bat` to set up N1 boot from Udisk**
 - Making an armbian Udisk, you can use Rufus to buring
-  - Use 5.77 version and correspoding dbt file, you can find these file in the `N1 All-In-One`
+  - Use 5.77 version and correspoding dbt file
     - If you want to use latest builds of armbian, please check this [repo](https://github.com/ophub/amlogic-s9xxx-armbian)
   - After buring, use DiskGeniu to open Udisk and copy dbt file into dbt folder
   - After that, edit uEnv.ini on the root folder, change first line with placed path of dbt file you copied just now
