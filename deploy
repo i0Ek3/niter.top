@@ -1,11 +1,18 @@
 #!/bin/sh
 
+usage() {
+    cat << EOF
+    Usage: $0
+EOF
+}
+
 deploy() {
     USER=root
     HOST=niter.top
+    PORT=22
     DIR=/root/www/
     
-    hugo && rsync -avz --delete public/ -e 'ssh -v -p YOUR_PORT' ${USER}@${HOST}:${DIR}
+    hugo && rsync -avz --delete public/ -e 'ssh -v -p ${PORT}' ${USER}@${HOST}:${DIR}
     exit 0
 }
 
