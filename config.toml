@@ -138,21 +138,16 @@ weight = 3
 url = "post/"
 
 [[languages.en.menu.main]]
-name = "Projects"
-weight = 4
-url = "projects/"
-
-[[languages.en.menu.main]]
 name = "Paints"
-weight = 5
+weight = 4
 url = "paints/"
 
 [[languages.en.menu.main]]
 name = "Tools"
-weight = 6
+weight = 5
 url = "tool/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
-weight = 7
+weight = 6
 url = "contact/"
