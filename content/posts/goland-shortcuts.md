@@ -41,7 +41,7 @@ IDEs are often used in daily development. If you are not familiar with IDE short
 | Back to fore/after function implement | `⌘ ⌥ + Left` `⌘ ⌥ + Right` | Win + Alt + Left/Right |                                         |
 | Reformat code                         | `⌥ ⌘ L`                    | Win + Alt + L          |                                         |
 | Rename                                | `⇧ F6`                     | Shift + Alt + F6       |                                         |
-| Navigate back / forward               | `⌘ [` / `⌘ ]`              | Win + `[` / Win + `]`  |                                         |
+| Navigate back/forward                 | `⌘ [` / `⌘ ]`              | Win + `[` / Win + `]`  |                                         |
 |                                       |                            |                        |                                         |
 |                                       |                            |                        |                                         |
 |                                       |                            |                        |                                         |

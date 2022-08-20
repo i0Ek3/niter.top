@@ -7,6 +7,10 @@ author = "i0Ek3"
 
 Here's thing.
 
+## 2022-08-20
+
+Although I know that many things are only fleeting, I am still very grateful and happy to hear such an answer from Zhang Chu. Then I'm here is worth it.
+
 ## 2022-07-10
 
 Even though I am on personal leave now, I am a free man. One day before, I went to my leader's office and I told him "Bad news.", he immediately guessed what I am meaning, and he said "Do you want to leave?", I nod. He then said "Did you just leave your brother here alone? You just played me!", I smiled bitterly. In fact, I don't want to do that, but I can't help it. Later, he gave me an idea, that is let me take a month off first, and then decide, I agreed. Actually, I am very happy to meet him, but he told everyone that I was leaving, yes, EVERYONE! Fine, I do really like him, that's all.
