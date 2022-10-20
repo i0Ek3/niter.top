@@ -34,7 +34,9 @@ Or if you have the same phone with mine, download all of these files from [here(
 - Copy original boot/recovery image to your phone
 - Open Magisk app and patching boot/recovery image
 - After then, copy modified boot/recovery image to your computer
-- Reboot phone to bootloader/fastboot mode, flash the modified boot/recovery image, use command `fastboot flash boot /path/to/magisk_patched.img` or `fastboot flash recovery /path/to/magisk_patched.img`
+- Reboot phone to bootloader/fastboot mode, flash the modified boot/recovery image by corresponding command
+    - `fastboot flash boot /path/to/magisk_patched.img` for pathced boot image
+    - `fastboot flash recovery /path/to/magisk_patched.img` for patched recovery image
 - After flashed, reboot your phone
 - After phone rebooted, copy MIUI EU localize modules file to your phone
 - And then, open Magisk app to install MIUI EU localize modules file, follow the prompts
