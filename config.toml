@@ -113,12 +113,6 @@ icon = "fa fa-github"
 weight = 1
 url = "https://github.com/i0Ek3/"
 
-[[params.social]]
-name = "Telegram"
-icon = "fa fa-telegram"
-weight = 2
-url = "https://t.me/i0Ek4"
-
 [languages.en]
 languageName = ":us:"
 
