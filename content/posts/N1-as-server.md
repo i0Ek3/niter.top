@@ -58,7 +58,7 @@ With this way, you need to re-install Android TV system on N1. All of these file
   - N1 connect to power and wait USB Buring Tool to recognise N1 device
   - After then, click Start and wait it to finished
   - When it was finished, disconnect double ended USB cable first, then Stop the USB Buring Tool and exit it, disconnect power of N1
-- **Run script `U盘启动.bat` to set up N1 boot from Udisk**
+- **Run script `Uboot.bat` to set up N1 boot from Udisk**
 - Making an armbian Udisk, you can use Rufus to buring
   - Use 5.77 version and correspoding dbt file
     - If you want to use latest builds of armbian, please check this [repo](https://github.com/ophub/amlogic-s9xxx-armbian)
