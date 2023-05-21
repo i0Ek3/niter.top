@@ -7,6 +7,10 @@ author = "i0Ek3"
 
 Here's thing.
 
+## 2023-05-21
+
+Everything goes fast these days. I've been through so much. I met someone, happy or painful. I worked, and the work fucked me up. I was stuck in there and I couldn't run out, stuck in my work and my feelings. It's so real I can feel, I write something down for myself to touch my inner world so closely, I call it memory.
+
 ## 2022-08-20
 
 Although I know that many things are only fleeting, I am still very grateful and happy to hear such an answer from Zhang Chu. Then I'm here is worth it.

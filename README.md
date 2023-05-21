@@ -6,8 +6,6 @@
 This is my personal website which I build and generate by Hugo to record my experiences and what I learned from Internet. Also have some posts just like tweet and the fun stuffs I collected from somewhere.
 
 
-
-
 ## Record
 
 Some days ago, my blog on Netlify went offline cause of I changed it's name servers to the original one(Namesilo). So I decide to record what should I do after my blog offline. Here's thing:
@@ -43,8 +41,6 @@ Enjoy!
 - Here we are
 
 
-
-
 ## Deploy on VPS
 
 > DO NOT RUN ./deploy DIRECTLY!
@@ -58,7 +54,6 @@ Before you deploy your website on your VPS, you need to change follows items in 
 After that, run command `hugo -D` and run script `./deploy` to deploy. 
 
 
-
 ## To-Do List
 
 - [x] support https
@@ -68,7 +63,6 @@ After that, run command `hugo -D` and run script `./deploy` to deploy.
 - [ ] enable [cdn](https://www.jsdelivr.com/) speed up
 - [ ] support traffic analysis
 - [ ] support [i18n & l10n](https://www.bmpi.dev/dev/i18n-l10n/)
-
 
 
 ## Something About Blog Tags And Categories
@@ -93,7 +87,6 @@ There are three categories and several tags in every category, just like:
 
 - Check how to deploy your website on different stuffs: [https://gohugo.io/hosting-and-deployment/hugo-deploy/](https://gohugo.io/hosting-and-deployment/hugo-deploy/)
 - Deploy website on your VPS(but this post have some issues, please kindly be informed): [https://www.enit.xyz/tech/deploy-hugo-on-vps/](https://www.enit.xyz/tech/deploy-hugo-on-vps/)
-
 
 
 ## Credit

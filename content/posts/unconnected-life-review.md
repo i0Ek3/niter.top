@@ -15,3 +15,5 @@ categories = [
 # Unconnected Life Review
 
 His/Her life in the eye of the beholder.
+
+Just be yourself.
