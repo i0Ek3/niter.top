@@ -9,12 +9,12 @@ Okay, this is my first official website to share something what I know or I lear
 
 But who I am?
 
-- [WIP]Multilingual
-- A govrefugee
+- A multilingual™️
+- A govrefugee™️
 - A bugmaker
 - A fat guy
 - Him/He
-- Love coding, music
+- Love music
 - Learner
 
 Found me here:
