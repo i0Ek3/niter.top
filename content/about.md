@@ -20,3 +20,5 @@ But who I am?
 Found me here:
 
 * https://github.com/i0Ek3
+
+![](https://scastiel.dev/api/image/i0Ek3?dark&removeLink)
