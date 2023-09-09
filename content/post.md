@@ -7,6 +7,13 @@ author = "i0Ek3"
 
 Here's thing.
 
+## 2023-09-09
+
+I was too busy with work and spent a few weeks finally reading the two books "The Road Ahead" by Ruan Yifeng and "Survivors of the Future World". It was very rewarding and worth reading again, and I will keep reading in the future.
+
+Speaking of work, it consumed my passion for technology. Commercial companies want us to create value and profits, and senior leaders don't care about real technology. All they want is promotion and the rights that come with it. And I just want to use technology to solve real-world problems to help others live better lives.
+
+
 ## 2023-05-21
 
 Everything goes fast these days. I've been through so much. I met someone, happy or painful. I worked, and the work fucked me up. I was stuck in there and I couldn't run out, stuck in my work and my feelings. It's so real I can feel, I write something down for myself to touch my inner world so closely, I call it memory.
