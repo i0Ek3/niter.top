@@ -2,7 +2,7 @@
 
 author = "i0Ek3"
 date = "2023-11-25"
-title = "Using Hong Kong Version(TGY) Firmware on China Version(CHC) S23U(SM-S9180) with macOS(Apple Chip) 
+title = "Using Hong Kong Version(TGY) Firmware on China Version(CHC) S23U(SM-S9180) with macOS(Apple Chip)" 
 tags = [
     "Sharing",
 ]
