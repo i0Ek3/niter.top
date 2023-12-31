@@ -26,7 +26,7 @@ Some people say that I don't have the same kind of goal I used to have. That's r
 
 The good thing is that my perception has changed since I came here, and my perception of myself has become clearer than before, knowing what I can and can't do, and I've accomplished a few of the goals I set for myself before I came here. I have stayed for a whole year, explored my boundaries, accumulated some savings and learned some skills.
 
-Of course there are some bad points, here is really very volume, a lot of overtime, a lot of time is not really meaningful, coworkers get along with the communication is always strange, but there are some coworkers get along with or very happy.
+Of course there are some bad points, here is really very busy, a lot of overtime, a lot of time is not really meaningful, coworkers get along with the communication is always strange, but there are some coworkers get along with or very happy.
 
 Of course the bad points have something to do with personalities. Personally, I am insecure, so I won't trust others easily, my inner defense is very high, so high that even if others trust me, I won't trust them completely. I can't help it, that's just me, not to mention that everyone here is a hired gun, and everyone flaunts their own self-interests, each with their own agenda.
 
