@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaomi.eu, MIUI, Magisk on i0Ek3 の Galaxy</title>
+    <link>http://localhost:1313/tags/xiaomi.eu-miui-magisk/</link>
+    <description>Recent content in Xiaomi.eu, MIUI, Magisk on i0Ek3 の Galaxy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/xiaomi.eu-miui-magisk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Enable Removed Features and Apps on xiaomi.eu ROM</title>
+      <link>http://localhost:1313/posts/xiaomieu-hacked/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/xiaomieu-hacked/</guid>
+      <description>&lt;p&gt;I reused my Android phone Redmi K30 Pro, so I need to install a stable ROM on it, boom, xiaomi.eu is here. But xiaomi.eu ROM reduced some features or apps from China version, so I need to flash magisk and localize modules to enable these features and apps. Before that, you should know what is xiaomi.eu and knows how to install eu ROMs on your phone.&lt;/p&gt;&#xA;&lt;h2 id=&#34;prerequisites&#34;&gt;&#xA;  Prerequisites&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#prerequisites&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Unlock your phone&lt;/li&gt;&#xA;&lt;li&gt;xiaomi.eu ROM(weekly or stable version), &lt;a href=&#34;https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;download here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Localize module files, &lt;a href=&#34;https://minamigo-my.sharepoint.com/:f:/g/personal/koizumishouta_minamigo_onmicrosoft_com/EgLhpcA_G_5IugTq10F90r0BzUbaO7aHamxpZCUUgBgefg?e=VVvXXd&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;download here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Magisk app, &lt;a href=&#34;https://github.com/topjohnwu/Magisk/releases&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;download here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Original boot/recovery image, used to patching&lt;/li&gt;&#xA;&lt;li&gt;LSPosed.zip, &lt;a href=&#34;https://github.com/LSPosed/LSPosed/releases&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;download here&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Or if you have the same phone with mine, download all of these files from &lt;a href=&#34;https://www.aliyundrive.com/s/H5e9kpQZwQ2&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here(pwd: q2u5)&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -86,7 +86,6 @@ There are three categories and several tags in every category, just like:
 ## Reference
 
 - Check how to deploy your website on different stuffs: [https://gohugo.io/hosting-and-deployment/hugo-deploy/](https://gohugo.io/hosting-and-deployment/hugo-deploy/)
-- Deploy website on your VPS(but this post have some issues, please kindly be informed): [https://www.enit.xyz/tech/deploy-hugo-on-vps/](https://www.enit.xyz/tech/deploy-hugo-on-vps/)
 
 
 ## Credit

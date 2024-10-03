@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on i0Ek3 の Galaxy</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on i0Ek3 の Galaxy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sharing</title>
+      <link>http://localhost:1313/tags/sharing/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sharing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GoLand, IDE, JetBrains, Shortcuts, Go, Dev, MacOS</title>
+      <link>http://localhost:1313/tags/goland-ide-jetbrains-shortcuts-go-dev-macos/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/goland-ide-jetbrains-shortcuts-go-dev-macos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nokia X6, LineageOS 19.1</title>
+      <link>http://localhost:1313/tags/nokia-x6-lineageos-19.1/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nokia-x6-lineageos-19.1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SPOF, Google Account, Dead Loop</title>
+      <link>http://localhost:1313/tags/spof-google-account-dead-loop/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/spof-google-account-dead-loop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Xiaomi.eu, MIUI, Magisk</title>
+      <link>http://localhost:1313/tags/xiaomi.eu-miui-magisk/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/xiaomi.eu-miui-magisk/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>N1, Armbian, Linux Server</title>
+      <link>http://localhost:1313/tags/n1-armbian-linux-server/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/n1-armbian-linux-server/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>http://localhost:1313/tags/development/</link>
+      <pubDate>Sat, 21 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Unpack</title>
+      <link>http://localhost:1313/tags/unpack/</link>
+      <pubDate>Tue, 16 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/unpack/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Data Lake/Repo</title>
+      <link>http://localhost:1313/tags/data-lake/repo/</link>
+      <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/data-lake/repo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>N1</title>
+      <link>http://localhost:1313/tags/n1/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/n1/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

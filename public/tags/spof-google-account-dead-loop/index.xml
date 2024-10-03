@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPOF, Google Account, Dead Loop on i0Ek3 の Galaxy</title>
+    <link>http://localhost:1313/tags/spof-google-account-dead-loop/</link>
+    <description>Recent content in SPOF, Google Account, Dead Loop on i0Ek3 の Galaxy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/spof-google-account-dead-loop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terrible SPOF</title>
+      <link>http://localhost:1313/posts/terrible-spof/</link>
+      <pubDate>Sat, 18 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/terrible-spof/</guid>
+      <description>&lt;p&gt;SPOF denotes single point of failure, means a component in a system whose failure causes the entire system to fail. We hear it all the time in RAFT and Byzantine algorithms or distributed systems. Of course, it also happens in our daily life.&lt;/p&gt;&#xA;&lt;p&gt;Below, I will tell you about the SPOF problems I encountered in my life and how to deal with them.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;ref_spof&#34; src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Single_Point_of_Failure.png/400px-Single_Point_of_Failure.png&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-i-went-through&#34;&gt;&#xA;  What I went through?&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-i-went-through&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve experienced some SPOF-induced events in my daily life, and it&amp;rsquo;s been really scary. Not only did they take my time, they ruined my mood and just &amp;ldquo;stole&amp;rdquo; my data.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

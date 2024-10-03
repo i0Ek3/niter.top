@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  Using Hong Kong Version(TGY) Firmware on China Version(CHC) S23U(SM-S9180) with macOS(Apple Chip) · i0Ek3 の Galaxy
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="i0Ek3">
+<meta name="description" content="
+  Using Hong Kong Version(TGY) Firmware on China Version(CHC) S23U(SM-S9180) with macOS(Apple Chip)
+  
+    
+    Link to heading
+  
+
+
+  Create a Virtual Machine for Windows(ARM)
+  
+    
+    Link to heading
+  
+
+Just follow the steps to create the VM via Parallels Desktop on your macOS(Apple Chip), after then enter the virtual Windows 11 stand by.
+
+  Download Firmware and Tools
+  
+    
+    Link to heading
+  
+
+
+
+SamFirm(or download TGY firmware manually)">
+<meta name="keywords" content="Developer">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Using Hong Kong Version(TGY) Firmware on China Version(CHC) S23U(SM-S9180) with macOS(Apple Chip)">
+  <meta name="twitter:description" content=" Using Hong Kong Version(TGY) Firmware on China Version(CHC) S23U(SM-S9180) with macOS(Apple Chip) Link to heading Create a Virtual Machine for Windows(ARM) Link to heading Just follow the steps to create the VM via Parallels Desktop on your macOS(Apple Chip), after then enter the virtual Windows 11 stand by.
+Download Firmware and Tools Link to heading SamFirm(or download TGY firmware manually)">
+
+<meta property="og:url" content="http://localhost:1313/posts/flash-s23u/">
+  <meta property="og:site_name" content="i0Ek3 の Galaxy">
+  <meta property="og:title" content="Using Hong Kong Version(TGY) Firmware on China Version(CHC) S23U(SM-S9180) with macOS(Apple Chip)">
+  <meta property="og:description" content=" Using Hong Kong Version(TGY) Firmware on China Version(CHC) S23U(SM-S9180) with macOS(Apple Chip) Link to heading Create a Virtual Machine for Windows(ARM) Link to heading Just follow the steps to create the VM via Parallels Desktop on your macOS(Apple Chip), after then enter the virtual Windows 11 stand by.
+Download Firmware and Tools Link to heading SamFirm(or download TGY firmware manually)">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2023-11-25T00:00:00+00:00">
+    <meta property="article:modified_time" content="2023-11-25T00:00:00+00:00">
+    <meta property="article:tag" content="Sharing">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/posts/flash-s23u/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/">
+      i0Ek3 の Galaxy
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/post/">Post</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/paints/">Paints</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/tool/">Tools</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/contact/">Contact me</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/posts/flash-s23u/">
+              Using Hong Kong Version(TGY) Firmware on China Version(CHC) S23U(SM-S9180) with macOS(Apple Chip)
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2023-11-25T00:00:00Z">
+                2023-11-25
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              2-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/categories/bg/">BG</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/sharing/">Sharing</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <h1 id="using-hong-kong-versiontgy-firmware-on-china-versionchc-s23usm-s9180-with-macosapple-chip">
+  Using Hong Kong Version(TGY) Firmware on China Version(CHC) S23U(SM-S9180) with macOS(Apple Chip)
+  <a class="heading-link" href="#using-hong-kong-versiontgy-firmware-on-china-versionchc-s23usm-s9180-with-macosapple-chip">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h1>
+<h2 id="create-a-virtual-machine-for-windowsarm">
+  Create a Virtual Machine for Windows(ARM)
+  <a class="heading-link" href="#create-a-virtual-machine-for-windowsarm">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Just follow the steps to create the VM via Parallels Desktop on your macOS(Apple Chip), after then enter the virtual Windows 11 stand by.</p>
+<h2 id="download-firmware-and-tools">
+  Download Firmware and Tools
+  <a class="heading-link" href="#download-firmware-and-tools">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>
+<p><a href="https://samfirmtool.com"  class="external-link" target="_blank" rel="noopener">SamFirm</a>(or <a href="https://samfw.com/firmware/SM-S9180"  class="external-link" target="_blank" rel="noopener">download TGY firmware manually</a>)</p>
+<ul>
+<li>
+<p><a href="https://www.sxrom.com"  class="external-link" target="_blank" rel="noopener">Check Model/Code</a></p>
+<p><img alt="s9180-choose-version" src="https://cdn.statically.io/gh/i0Ek3/apichost@main/20231125/s9180-choose-version.6ua0eculvjpc.jpg"></p>
+<p><img alt="s9180-download-TGY-firmware" src="https://cdn.statically.io/gh/i0Ek3/apichost@main/20231125/s9180-download-TGY-firmware.8sz078ad1fc.jpg"></p>
+</li>
+</ul>
+</li>
+<li>
+<p><a href="https://odindownloader.com"  class="external-link" target="_blank" rel="noopener">Odin</a></p>
+</li>
+<li>
+<p><a href="https://developer.samsung.com/android-usb-driver"  class="external-link" target="_blank" rel="noopener">Android USB Driver for Samsung Smartphone</a></p>
+</li>
+<li>
+<p><a href="https://www.samsung.com/global/download/"  class="external-link" target="_blank" rel="noopener">Samsung Switch</a></p>
+</li>
+</ul>
+<p>After this, install all of these files on your virtual Windows, follow the order below:</p>
+<ul>
+<li>Android USB Driver</li>
+<li>Samsung Switch
+<ul>
+<li>to install Microsoft VC++ X86 2008/2010 deps automatically instead of manually, because SamFirm needs it and you cannot install the 2008/2010 version on Windows 11(ARM)</li>
+</ul>
+</li>
+<li>SamFirm</li>
+<li>Odin</li>
+</ul>
+<h2 id="flash-firmware-on-odin">
+  Flash Firmware on Odin
+  <a class="heading-link" href="#flash-firmware-on-odin">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>
+<p>Unpackage TGY firmware and remain these four part(AP/BL/CP/CSC_OSZ)</p>
+<p><img alt="s9180-remain-four-part" src="https://cdn.statically.io/gh/i0Ek3/apichost@main/20231125/s9180-remain-four-part.73cf3cm28neo.jpg"></p>
+</li>
+<li>
+<p>Open Odin 3.14.4 and load these four parts, it will be take a while, just be patient</p>
+<p><img alt="s9180-AP-loading" src="https://cdn.statically.io/gh/i0Ek3/apichost@main/20231125/s9180-AP-loading.780sjc5xbnuo.jpg"></p>
+<p><img alt="s9180-loading-packages" src="https://cdn.statically.io/gh/i0Ek3/apichost@main/20231125/s9180-loading-packages.5dsom5r4nw5c.jpg"></p>
+</li>
+<li>
+<p>Power off the phone, press the volume Up + Down key for 5 seconds to enter the flash mode and then plug the USB-C cable between the phone and PC(choose option to connect the virtual Windows)</p>
+</li>
+<li>
+<p>After connecting the phone and virtual Windows, you will see this sign(0:[COM5] for my device)</p>
+</li>
+<li>
+<p>And then click the Start button until the big PASS showed for you, this step may take 5 minutes</p>
+<p><img alt="s9180-start-to-flashing" src="https://cdn.statically.io/gh/i0Ek3/apichost@main/20231125/s9180-start-to-flashing.3jqkx5h29q2o.jpg"></p>
+<p><img alt="s9180-flash-success" src="https://cdn.statically.io/gh/i0Ek3/apichost@main/20231125/s9180-flash-success.6w27jni0gqkg.jpg"></p>
+</li>
+</ul>
+<h2 id="fixing-issues">
+  Fixing Issues
+  <a class="heading-link" href="#fixing-issues">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<h3 id="1-stuck-on-setupconnection">
+  1. Stuck on SetupConnection
+  <a class="heading-link" href="#1-stuck-on-setupconnection">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>If you plug in the cable before Odin loads the package, and then you will see the error message, so load the package for Odin first then plug in the cable.</p>
+<p><img alt="s9180-issue-stuck-on-setup-connection" src="https://cdn.statically.io/gh/i0Ek3/apichost@main/20231125/s9180-issue-stuck-on-setup-connection.fyjy9bn6em0.jpg"></p>
+<h3 id="2-completewrite-opertion-failed">
+  2. Complete(Write) opertion failed
+  <a class="heading-link" href="#2-completewrite-opertion-failed">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>During the flashing process, I used the official USC-C cable, which caused this issue. After I changed the USB-C cable, the issue was solved.</p>
+<p><img alt="s9180-complete(wirte)-operation-failed-issue" src="https://cdn.statically.io/gh/i0Ek3/apichost@main/20231125/s9180-complete(wirte)-operation-failed-issue.33kr9i80uwzk.jpg"></p>
+<h3 id="3-an-error-has-occurred-while-updating-the-device-software">
+  3. An error has occurred while updating the device software
+  <a class="heading-link" href="#3-an-error-has-occurred-while-updating-the-device-software">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>Don&rsquo;t worry, when you see this error message, which means you&rsquo;re still in flash mode, just re-flash the firmware on Odin can fix this issue. Of course, if you want to power off the phone, you can press the volume Down key + Power key for 3 seconds at a time. But this is a dead loop, and you will see it again.</p>
+<p><img alt="s9180-error-occurred" src="https://cdn.statically.io/gh/i0Ek3/apichost@main/20231125/s9180-error-occurred.1pe515uq2mww.jpg"></p>
+<p>Yep, you&rsquo;re almost there, enjoy~</p>
+<h2 id="references">
+  References
+  <a class="heading-link" href="#references">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li><a href="https://blog.lucyqin.cn/?p=789"  class="external-link" target="_blank" rel="noopener">https://blog.lucyqin.cn/?p=789</a></li>
+</ul>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2021 -
+    
+    2024
+     i0Ek3 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>N1 on i0Ek3 の Galaxy</title>
+    <link>http://localhost:1313/tags/n1/</link>
+    <description>Recent content in N1 on i0Ek3 の Galaxy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/n1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>N1 刷机记录：不能当盒子的 NAS 不是好矿机？</title>
+      <link>http://localhost:1313/posts/play-with-n1/</link>
+      <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/play-with-n1/</guid>
+      <description>&lt;h2 id=&#34;tldr&#34;&gt;&#xA;  TL;DR&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#tldr&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;如果不想听我啰嗦，可以直接下载固件按照相关教程自己刷机。当然，我的教程里会包括一些注意事项，万一正是你需要的呢？&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;固件下载~~（几乎不用下载额外的固件以及软件了）：https://cloud.189.cn/t/aUr6RzNrIbaa（访问码：6e4b）~~ 具体的固件下载地址请查看我的&lt;a href=&#34;https://niter.top/posts/n1-as-server/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;这篇文章&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;小钢炮官方教程：https://rom.nanodm.net/N1/n1-fw-install-guide.md&lt;/li&gt;&#xA;&lt;li&gt;Armbian 刷机教程：https://www.right.com.cn/forum/thread-335609-1-1.html&lt;/li&gt;&#xA;&lt;li&gt;OMV NAS 刷机教程：https://www.right.com.cn/forum/thread-342164-1-1.html&lt;/li&gt;&#xA;&lt;li&gt;Volumio 音乐服务器刷机教程：https://www.right.com.cn/forum/forum.php?mod=viewthread&amp;amp;tid=330503&lt;/li&gt;&#xA;&lt;li&gt;CoreELEC 游戏主机刷机教程：https://www.right.com.cn/forum/forum.php?mod=viewthread&amp;amp;tid=331363&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;正文&#34;&gt;&#xA;  正文&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#%e6%ad%a3%e6%96%87&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;我于 7 月 7 日在套路多上以 125 的价格拿到了年轻人第一台二手 N1，比起“0元购”以及爆仓后的 50 软妹币，简直是贵哭了好吗？好吧，虽是二手，但整体成色还是可以接受的，自己&lt;del&gt;开心&lt;/del&gt;(心疼)就是了呀。&lt;/p&gt;&#xA;&lt;p&gt;在盒子回来之前，我其实已经做了很多的功课，比如下载好所有的固件~~&lt;a href=&#34;https://cloud.189.cn/t/aUr6RzNrIbaa&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;（访问码：6e4b）&lt;/a&gt;~~先，做好启动优盘。不过优盘真的很挑，找那些不太知名、 USB 2.0 接口、8G 的就行，一上一个行。&lt;/p&gt;&#xA;&lt;p&gt;于是第二天，便开开心心的带着盒子去了单位。一到单位，我便一顿操作猛如虎，年轻人根本把持不住，结果就是只能刷进去电视盒子系统，其他系统一个都刷不进去，卒。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Two thousand years later&amp;hellip;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;此时已经到了午饭后，我又折腾了一番，哈哈哈哈，奇葩的很，N1 根本没打算给我面子，照着&lt;a href=&#34;https://rom.nanodm.net/N1/n1-fw-install-guide.md&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;教程&lt;/a&gt;做了很多遍结果还是很拉垮，算了吧，散了吧，就此结束吧，我要放弃了。&lt;/p&gt;&#xA;&lt;p&gt;13:20 左右，拉出对面大姐赠送的折叠床，埋头睡去。此时睡在旁边的欢哥问我，睡着了吗？答曰 Nei！怎么睡的着呢？眼睛虽然闭着，但脑海里还是在想着如何解决这倔强的塑料壳，肯定是我哪里的步骤出了问题。虽然思绪万千但也不能影响午休，算是及时止损吧。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;其实我一直在怀疑是不是我 2.9 RMB 买的公对公数据线有问题，事实证明根本不是。你看，你还在怀疑，你还在质疑。&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;14:20 午休结束，简单忙完手头的工作，继续开始折腾这&lt;a href=&#34;https://pockies.github.io/2019/03/07/phicomm-n1/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;牛逼坏了&lt;/a&gt;的塑料盒子。在我把 N1 接到路由器上后，情况略有好转，因为之前都是接着我桌子下面的交换机。另一个，我的笔记本上装了测试版的 Windows 11，并且装好了 ADB 工具（我将其复制到 /System32 文件夹下），但怎么也连不上设备，后来的后来，还是直接将 ADB 工具拷贝到 C 盘的某个位置，直接在命令行里运行才解决的。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

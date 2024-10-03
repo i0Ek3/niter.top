@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoLand, IDE, JetBrains, Shortcuts, Go, Dev, MacOS on i0Ek3 の Galaxy</title>
+    <link>http://localhost:1313/tags/goland-ide-jetbrains-shortcuts-go-dev-macos/</link>
+    <description>Recent content in GoLand, IDE, JetBrains, Shortcuts, Go, Dev, MacOS on i0Ek3 の Galaxy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/goland-ide-jetbrains-shortcuts-go-dev-macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoLand Shortcuts In Action</title>
+      <link>http://localhost:1313/posts/goland-shortcuts/</link>
+      <pubDate>Wed, 17 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/goland-shortcuts/</guid>
+      <description>&lt;h2 id=&#34;pretext&#34;&gt;&#xA;  Pretext&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#pretext&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;IDEs are often used in daily development. If you are not familiar with IDE shortcuts, it will be a disaster. Therefore, here I record the shortcut keys I often use to increase development efficiency. This article mainly focuses on GoLand under macOS, other JetBrains IDEs are similar(only for macOS). For Windows platform, please check the official documentation by yourself.&lt;/p&gt;&#xA;&lt;h2 id=&#34;keymap&#34;&gt;&#xA;  Keymap&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#keymap&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Command（Cmd or Win）&lt;code&gt;⌘&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

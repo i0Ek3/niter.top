@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nokia X6, LineageOS 19.1 on i0Ek3 の Galaxy</title>
+    <link>http://localhost:1313/tags/nokia-x6-lineageos-19.1/</link>
+    <description>Recent content in Nokia X6, LineageOS 19.1 on i0Ek3 の Galaxy</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/nokia-x6-lineageos-19.1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Install LOS 19.1 on Nokia X6(6.1 Plus)</title>
+      <link>http://localhost:1313/posts/x6/</link>
+      <pubDate>Wed, 06 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/x6/</guid>
+      <description>&lt;h2 id=&#34;prerequirsits&#34;&gt;&#xA;  Prerequirsits&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#prerequirsits&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Download follows tools:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;You can also download all of these files from my &lt;a href=&#34;https://www.aliyundrive.com/s/zpSwtjMki2L&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;drive(SXFL)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Android Platform Tool or Minimal ADB Fastboot v1.4.3&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Nokia Drivers Disk&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Nokia Bootloader Unlock Tool&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Nokia Repartition Tool&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Twrp Recovery&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Lineage OS&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;And enable USB debug mode(developer mode) on your phone.&lt;/p&gt;&#xA;&lt;h2 id=&#34;unlock&#34;&gt;&#xA;  Unlock&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#unlock&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Reboot to bootloader&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Open the Nokia Bootloader Unlock Tool&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <title>
+  Enable Removed Features and Apps on xiaomi.eu ROM · i0Ek3 の Galaxy
+</title>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="light dark">
+
+
+
+
+<meta name="author" content="i0Ek3">
+<meta name="description" content="I reused my Android phone Redmi K30 Pro, so I need to install a stable ROM on it, boom, xiaomi.eu is here. But xiaomi.eu ROM reduced some features or apps from China version, so I need to flash magisk and localize modules to enable these features and apps. Before that, you should know what is xiaomi.eu and knows how to install eu ROMs on your phone.
+
+  Prerequisites
+  
+    
+    Link to heading
+  
+
+
+Unlock your phone
+xiaomi.eu ROM(weekly or stable version), download here
+Localize module files, download here
+Magisk app, download here
+Original boot/recovery image, used to patching
+LSPosed.zip, download here
+
+Or if you have the same phone with mine, download all of these files from here(pwd: q2u5).">
+<meta name="keywords" content="Developer">
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Enable Removed Features and Apps on xiaomi.eu ROM">
+  <meta name="twitter:description" content="I reused my Android phone Redmi K30 Pro, so I need to install a stable ROM on it, boom, xiaomi.eu is here. But xiaomi.eu ROM reduced some features or apps from China version, so I need to flash magisk and localize modules to enable these features and apps. Before that, you should know what is xiaomi.eu and knows how to install eu ROMs on your phone.
+Prerequisites Link to heading Unlock your phone xiaomi.eu ROM(weekly or stable version), download here Localize module files, download here Magisk app, download here Original boot/recovery image, used to patching LSPosed.zip, download here Or if you have the same phone with mine, download all of these files from here(pwd: q2u5).">
+
+<meta property="og:url" content="http://localhost:1313/posts/xiaomieu-hacked/">
+  <meta property="og:site_name" content="i0Ek3 の Galaxy">
+  <meta property="og:title" content="Enable Removed Features and Apps on xiaomi.eu ROM">
+  <meta property="og:description" content="I reused my Android phone Redmi K30 Pro, so I need to install a stable ROM on it, boom, xiaomi.eu is here. But xiaomi.eu ROM reduced some features or apps from China version, so I need to flash magisk and localize modules to enable these features and apps. Before that, you should know what is xiaomi.eu and knows how to install eu ROMs on your phone.
+Prerequisites Link to heading Unlock your phone xiaomi.eu ROM(weekly or stable version), download here Localize module files, download here Magisk app, download here Original boot/recovery image, used to patching LSPosed.zip, download here Or if you have the same phone with mine, download all of these files from here(pwd: q2u5).">
+  <meta property="og:locale" content="en">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="posts">
+    <meta property="article:published_time" content="2022-06-18T00:00:00+00:00">
+    <meta property="article:modified_time" content="2022-06-18T00:00:00+00:00">
+    <meta property="article:tag" content="Xiaomi.eu, MIUI, Magisk">
+
+
+
+
+<link rel="canonical" href="http://localhost:1313/posts/xiaomieu-hacked/">
+
+
+<link rel="preload" href="/fonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/fonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+
+
+  
+  
+  <link rel="stylesheet" href="/css/coder.css" media="screen">
+
+
+
+
+
+
+  
+    
+    
+    <link rel="stylesheet" href="/css/coder-dark.css" media="screen">
+  
+
+
+
+ 
+
+
+
+
+<link rel="icon" type="image/svg+xml" href="/images/favicon.svg" sizes="any">
+<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
+
+<link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/images/safari-pinned-tab.svg" color="#5bbad5">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+
+
+<body class="preload-transitions colorscheme-auto">
+  
+<div class="float-container">
+    <a id="dark-mode-toggle" class="colorscheme-toggle">
+        <i class="fa-solid fa-adjust fa-fw" aria-hidden="true"></i>
+    </a>
+</div>
+
+
+  <main class="wrapper">
+    <nav class="navigation">
+  <section class="container">
+    
+    <a class="navigation-title" href="http://localhost:1313/">
+      i0Ek3 の Galaxy
+    </a>
+    
+    
+      <input type="checkbox" id="menu-toggle" />
+      <label class="menu-button float-right" for="menu-toggle">
+        <i class="fa-solid fa-bars fa-fw" aria-hidden="true"></i>
+      </label>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/about/">About</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/posts/">Blog</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/post/">Post</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/paints/">Paints</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/tool/">Tools</a>
+            </li>
+          
+            <li class="navigation-item">
+              <a class="navigation-link " href="/contact/">Contact me</a>
+            </li>
+          
+        
+        
+      </ul>
+    
+  </section>
+</nav>
+
+
+    <div class="content">
+      
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">
+            <a class="title-link" href="http://localhost:1313/posts/xiaomieu-hacked/">
+              Enable Removed Features and Apps on xiaomi.eu ROM
+            </a>
+          </h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fa-solid fa-calendar" aria-hidden="true"></i>
+              <time datetime="2022-06-18T00:00:00Z">
+                2022-06-18
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fa-solid fa-clock" aria-hidden="true"></i>
+              2-minute read
+            </span>
+          </div>
+          
+          <div class="categories">
+  <i class="fa-solid fa-folder" aria-hidden="true"></i>
+    <a href="/categories/pk/">PK</a></div>
+
+          <div class="tags">
+  <i class="fa-solid fa-tag" aria-hidden="true"></i>
+    <span class="tag">
+      <a href="/tags/xiaomi.eu-miui-magisk/">Xiaomi.eu, MIUI, Magisk</a>
+    </span></div>
+
+        </div>
+      </header>
+
+      <div class="post-content">
+        
+        <p>I reused my Android phone Redmi K30 Pro, so I need to install a stable ROM on it, boom, xiaomi.eu is here. But xiaomi.eu ROM reduced some features or apps from China version, so I need to flash magisk and localize modules to enable these features and apps. Before that, you should know what is xiaomi.eu and knows how to install eu ROMs on your phone.</p>
+<h2 id="prerequisites">
+  Prerequisites
+  <a class="heading-link" href="#prerequisites">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>Unlock your phone</li>
+<li>xiaomi.eu ROM(weekly or stable version), <a href="https://sourceforge.net/projects/xiaomi-eu-multilang-miui-roms/files/xiaomi.eu/"  class="external-link" target="_blank" rel="noopener">download here</a></li>
+<li>Localize module files, <a href="https://minamigo-my.sharepoint.com/:f:/g/personal/koizumishouta_minamigo_onmicrosoft_com/EgLhpcA_G_5IugTq10F90r0BzUbaO7aHamxpZCUUgBgefg?e=VVvXXd"  class="external-link" target="_blank" rel="noopener">download here</a></li>
+<li>Magisk app, <a href="https://github.com/topjohnwu/Magisk/releases"  class="external-link" target="_blank" rel="noopener">download here</a></li>
+<li>Original boot/recovery image, used to patching</li>
+<li>LSPosed.zip, <a href="https://github.com/LSPosed/LSPosed/releases"  class="external-link" target="_blank" rel="noopener">download here</a></li>
+</ul>
+<p>Or if you have the same phone with mine, download all of these files from <a href="https://www.aliyundrive.com/s/H5e9kpQZwQ2"  class="external-link" target="_blank" rel="noopener">here(pwd: q2u5)</a>.</p>
+<h2 id="steps">
+  Steps
+  <a class="heading-link" href="#steps">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li>Download the files mentioned above</li>
+<li>Install xiaomi.eu ROM on your phone, reboot and set it up</li>
+<li>Install Magisk app on your phone, check</li>
+<li>Copy original boot/recovery image to your phone</li>
+<li>Open Magisk app and patching boot/recovery image</li>
+<li>After then, copy modified boot/recovery image to your computer</li>
+<li>Reboot phone to bootloader/fastboot mode, flash the modified boot/recovery image by corresponding command
+<ul>
+<li><code>fastboot flash boot /path/to/magisk_patched.img</code> for pathced boot image</li>
+<li><code>fastboot flash recovery /path/to/magisk_patched.img</code> for patched recovery image</li>
+</ul>
+</li>
+<li>After flashed, reboot your phone</li>
+<li>After phone rebooted, copy MIUI EU localize modules file to your phone</li>
+<li>And then, open Magisk app to install MIUI EU localize modules file, follow the prompts</li>
+<li>After then, reboot your phone, then you got a hacked xiaomi.eu ROM on your phone</li>
+</ul>
+<h2 id="summary">
+  Summary
+  <a class="heading-link" href="#summary">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<p>Living comfortably without anybody&rsquo;s help.</p>
+<p>The official installation tutorial is not detailed enough and needs to be carefully pondered so as not to damage the phone.</p>
+<h2 id="references">
+  References
+  <a class="heading-link" href="#references">
+    <i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h2>
+<ul>
+<li><a href="https://blog.minamigo.moe/archives/184"  class="external-link" target="_blank" rel="noopener">Install Localize Modules</a></li>
+<li><a href="https://topjohnwu.github.io/Magisk/install.html"  class="external-link" target="_blank" rel="noopener">Install Magisk</a></li>
+</ul>
+
+      </div>
+
+
+      <footer>
+        
+
+
+        
+        
+        
+        
+        
+        
+        
+      </footer>
+    </article>
+
+    
+  </section>
+
+    </div>
+
+    <footer class="footer">
+  <section class="container">
+    ©
+    
+      2021 -
+    
+    2024
+     i0Ek3 
+    ·
+    
+    Powered by <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/" target="_blank" rel="noopener">Coder</a>.
+    
+  </section>
+</footer>
+
+  </main>
+
+  
+
+  
+  
+  <script src="/js/coder.js"></script>
+  
+
+  
+
+  
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</body>
+
+</html>
