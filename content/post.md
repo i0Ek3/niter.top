@@ -7,6 +7,10 @@ author = "i0Ek3"
 
 Here's thing.
 
+## 2025-01-11
+
+I met a nice guy. He's really nice and kind to me. Even though we're only chatting online, his words melt my heart. How lucky I am!
+
 ## 2024-10-03
 
 We have made a deal to have dinner before those guys who want to hang out with you through voice call right now. But the truth is that you'd like to go out with those guys, and I'm just an idiot. This is a lie, and I don't like people who break promises.

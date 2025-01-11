@@ -69,7 +69,7 @@ If you plug in the cable before Odin loads the package, and then you will see th
 
 ![s9180-issue-stuck-on-setup-connection](https://cdn.statically.io/gh/i0Ek3/apichost@main/20231125/s9180-issue-stuck-on-setup-connection.fyjy9bn6em0.jpg)
 
-### 2. Complete(Write) opertion failed
+### 2. Complete(Write) operation failed
 
 During the flashing process, I used the official USC-C cable, which caused this issue. After I changed the USB-C cable, the issue was solved.
 
